@@ -1,0 +1,7 @@
+pip3 install pipenv
+pipenv shell ----> activate virtual environment
+install django
+startproject
+startapp
+
+
